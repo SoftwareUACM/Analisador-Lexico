@@ -5,6 +5,7 @@
  * Error en que si ponen una palabra mala dentro de comentarios te muestra todo lo que esta dentro
  * Tabla no mostrar todos los tokens solo los identificadores
  * Faltan caracteres especiales
+ *Prueba de edicion
  */
 package analisadorlexico3;
 
@@ -595,4 +596,5 @@ public class JFrameAnalizador extends javax.swing.JFrame {
     private javax.swing.JScrollPane jScrollPane3;
     private javax.swing.JTable tabla;
     // End of variables declaration//GEN-END:variables
+    
 }
